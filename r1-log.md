@@ -4,7 +4,10 @@ The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1
+
+## Made an account with Frontendmentor and completed the desktop version of the Huddle landing page project. Will work on the desktop version for day 2.
+
+https://github.com/DeanHollstrom/huddle-landing-page
 
 ### R1D2
