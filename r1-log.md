@@ -15,3 +15,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Wednesday, 2021].
 ## Watched Freecodecamps Flexbox course on Youtube. I still need a lot of practice with Flexbox before concepts will start to stick.
 
 [Freecodecamp Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+
+### R1D3
+
+## Started working on refactoring my old Freecodecamp projects to flexbox.

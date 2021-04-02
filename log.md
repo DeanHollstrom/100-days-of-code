@@ -15,3 +15,9 @@
 **Thoughts:**: I still need a lot of practice with Flexbox before concepts will start to stick.
 
 **Link to work:** [Freecodecamp Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+
+### Day 3: April 2, 2021
+
+**Today's Progress**: Started working on refactoring my old Freecodecamp projects to flexbox.
+
+**Thoughts:**: Made some good progress with the tribute page project. More to do tomorrow.
