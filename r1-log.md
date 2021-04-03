@@ -19,3 +19,7 @@ The log of my #100DaysOfCode challenge. Started on [March 31, Wednesday, 2021].
 ### R1D3
 
 ## Started working on refactoring my old Freecodecamp projects to flexbox.
+
+### R1D4
+
+## Completed Freecodecamp tribute page and converted the survey form project to flex.

@@ -21,3 +21,9 @@
 **Today's Progress**: Started working on refactoring my old Freecodecamp projects to flexbox.
 
 **Thoughts:**: Made some good progress with the tribute page project. More to do tomorrow.
+
+### Day 4: April 3rd, 20121
+
+**Todays Progress** Completed Freecodecamp tribute page and converted the survey form project to flex.
+
+**Thought** Tribute page turned out well, the survey form needs some more styling work.
