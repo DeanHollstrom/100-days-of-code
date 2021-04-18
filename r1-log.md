@@ -1,25 +1,825 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 2 - [Dean Hollstrom]
 
-The log of my #100DaysOfCode challenge. Started on [March 31, Wednesday, 2021].
+The log of my #100DaysOfCode challenge. Started on [Monday, April 19th, 2021].
 
 ## Log
 
-### R1D1
+### R2D1
 
-## Made an account with Frontendmentor and completed the desktop version of the Huddle landing page project. Will work on the desktop version for day 2.
+## Progress //
 
-[Huddle Landing Page](https://github.com/DeanHollstrom/huddle-landing-page)
+## Links //
 
-### R1D2
+[Project Name](URL)
 
-## Watched Freecodecamps Flexbox course on Youtube. I still need a lot of practice with Flexbox before concepts will start to stick.
+---
 
-[Freecodecamp Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+### R2D2
 
-### R1D3
+## Progress //
 
-## Started working on refactoring my old Freecodecamp projects to flexbox.
+## Links //
 
-### R1D4
+[Project Name](URL)
 
-## Completed Freecodecamp tribute page and converted the survey form project to flex.
+---
+
+### R2D3
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+---
+
+### R2D4
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+---
+
+### R2D5
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+---
+
+### R2D6
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+---
+
+### R2D7
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+---
+
+### R2D8
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+---
+
+### R2D9
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+---
+
+### R2D10
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+---
+
+### R2D11
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D1
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)
+
+### R2D100
+
+## Progress //
+
+## Links //
+
+[Project Name](URL)

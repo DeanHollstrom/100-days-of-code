@@ -1,29 +1,33 @@
 # 100 Days Of Code - Log
 
-### Day 1: March 31, 2021
+### Day 1: April 18, 2021
 
-**Today's Progress**: Made an account with Frontendmentor and completed the desktop version of the Huddle landing page project. Will work on the desktop version for day 2.
+**Today's Progress**:
 
-**Thoughts:** Recreating the site was pretty straight forward, had a few issues with aligning the social icons and a few positioning issues towards the end. I would ideally want to refactor the site with CSS grid or flexbox.
+**Thoughts:**
 
-**Link to work:** [Huddle Landing Page](https://github.com/DeanHollstrom/huddle-landing-page)
+**Link to work:** []()
 
-### Day 2: April 1, 2021
+### Day 2: April 19th, 2021
 
-**Today's Progress**: Watched Freecodecamps Flexbox course on Youtube.
+**Today's Progress**:
 
-**Thoughts:**: I still need a lot of practice with Flexbox before concepts will start to stick.
+**Thoughts:**:
 
-**Link to work:** [Freecodecamp Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo)
+**Link to work:** []()
 
-### Day 3: April 2, 2021
+### Day 3: April 20th, 2021
 
-**Today's Progress**: Started working on refactoring my old Freecodecamp projects to flexbox.
+**Today's Progress**:
 
-**Thoughts:**: Made some good progress with the tribute page project. More to do tomorrow.
+**Thoughts:**:
 
-### Day 4: April 3rd, 20121
+**Link to work:** []()
+
+### Day 4: April 21st, 2021
 
 **Todays Progress** Completed Freecodecamp tribute page and converted the survey form project to flex.
 
 **Thought** Tribute page turned out well, the survey form needs some more styling work.
+
+**Link to work:** []()
