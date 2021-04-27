@@ -1,22 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 1: April 18, 2021
+### Day 1: April 27, 2021
 
-**Today's Progress**:
+**Today's Progress**: Decided to take a different approach and wrote up a roadmap for myself based on Traversy Medias "Web Development In 2021 - A Practical Guide" youtube video. I focused on taking notes relating to the Foundational front-end section. 
 
-**Thoughts:**
+**Thoughts**: This was a really good video for me to take notes from. Brad always explains things really well, hes clear and doesnt give un-necessary information. After working through the video and taking around 2 pages of notes, it was nice to see that I actually know a good amount og the basics as far as HTML and CSS is concerned. This has given me a good place to pick things up and has definitely boosted both my confidence and my motivation.
 
-**Link to work:** []()
+**Link to work:** [Traversy Media Youtube: Web Development in 2021 - A Practical Guide](https://youtu.be/VfGW0Qiy2I0)
 
-### Day 2: April 19th, 2021
-
-**Today's Progress**:
-
-**Thoughts:**:
-
-**Link to work:** []()
-
-### Day 3: April 20th, 2021
+### Day 2: April 28th, 2021
 
 **Today's Progress**:
 
@@ -24,10 +16,18 @@
 
 **Link to work:** []()
 
-### Day 4: April 21st, 2021
+### Day 3: April 29th, 2021
 
-**Todays Progress** Completed Freecodecamp tribute page and converted the survey form project to flex.
+**Today's Progress**:
 
-**Thought** Tribute page turned out well, the survey form needs some more styling work.
+**Thoughts:**:
+
+**Link to work:** []()
+
+### Day 4: April 30th, 2021
+
+**Todays Progress** 
+
+**Thought** 
 
 **Link to work:** []()
