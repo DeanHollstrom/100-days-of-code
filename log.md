@@ -10,11 +10,11 @@
 
 ### Day 2: April 28th, 2021
 
-**Today's Progress**:
+**Today's Progress**: Completed the CSS Grid Garden website today. A good primer for delving into more grid. 
 
-**Thoughts:**:
+**Thoughts:**: After setting myself a roadmap yesterday, I realised there a few gaps in my CSS knowledge (mainly grid and flexbox) so I decided to tackle CSS grid today. I used CSS Grid Garden to give myself a more simple look at the basics. Ive had a few unsuccessful attempts at learning grid in the past, so it it was good to find something that actually helped me get to grips with the idea with a more hands on approach. I completed all 28 tasks, despite task 27 causing me a couple of issues. 
 
-**Link to work:** []()
+**Link to work:** [CSS Grid Garden](https://cssgridgarden.com/)
 
 ### Day 3: April 29th, 2021
 
