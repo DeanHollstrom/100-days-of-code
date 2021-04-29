@@ -28,11 +28,11 @@ The log of my #100DaysOfCode challenge. Started on [Monday, April 27th, 2021].
 
 ### R2D3
 
-## Progress //
+## Progress // Day two of learning CSS Grid. Watched The Net Ninja's playlist on Youtube. After yesterdays success, I found Net Ninja's course was easy to follow. A few of the concepts are still a little muddled in my brain, but I feel confident enough to start playing with CSS Grid in my projects.
 
 ## Links //
 
-[Project Name](URL)
+[The Net Ninja CSS Grid playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
 
 ---
 

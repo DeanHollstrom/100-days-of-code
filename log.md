@@ -18,11 +18,11 @@
 
 ### Day 3: April 29th, 2021
 
-**Today's Progress**:
+**Today's Progress**: Day two of learning CSS Grid. Watched The Net Ninja's playlist on Youtube
 
-**Thoughts:**:
+**Thoughts:**: After yesterdays success, I found Net Ninja's course was easy to follow. A few of the concepts are still a little muddled in my brain, but I feel confident enough to start playing with CSS Grid in my projects. 
 
-**Link to work:** []()
+**Link to work:** [The Net Ninja CSS Grid playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY)
 
 ### Day 4: April 30th, 2021
 
