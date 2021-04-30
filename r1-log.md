@@ -38,11 +38,9 @@ The log of my #100DaysOfCode challenge. Started on [Monday, April 27th, 2021].
 
 ### R2D4
 
-## Progress //
+## Progress // Slow day today. Had a computer crash and needed to reset my code editor and extensions. Intalled nodejs and NPM.
 
-## Links //
-
-[Project Name](URL)
+## Links // NA
 
 ---
 
