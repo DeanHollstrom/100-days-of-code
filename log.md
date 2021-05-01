@@ -31,3 +31,11 @@
 **Thoughts** --
 
 **Link to work:** []()
+
+### Day 5: May 1st, 2021
+
+**Todays Progress** Worked with NPM a little today, setting up a Tailwind CSS project.
+
+**Thoughts** Definitely need to do some reading up on NPM commands and uses going forward. After setting up my working environment for Adam Wathans Tailwind playlist on youtube, Im looking forward to seeing what it can do.
+
+**Link to work:** [Designing with Tailwind CSS](https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR)

@@ -46,11 +46,11 @@ The log of my #100DaysOfCode challenge. Started on [Monday, April 27th, 2021].
 
 ### R2D5
 
-## Progress //
+## Progress // Worked with NPM a little today, setting up a Tailwind CSS project. Definitely need to do some reading up on NPM commands and uses going forward. After setting up my working environment for Adam Wathans Tailwind playlist on youtube, Im looking forward to seeing what it can do.
 
 ## Links //
 
-[Project Name](URL)
+[Designing with Tailwind CSS](https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR)
 
 ---
 
